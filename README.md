@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="license: GPL3">
 </p>
 
-## Arikaim CMS Fomantic UI library
+## Arikaim CMS jQuery UI library
 jQuery UI library for Arikaim CMS 
 
 ### Install
