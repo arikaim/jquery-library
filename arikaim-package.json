@@ -7,6 +7,6 @@
     "help": "https://api.jquery.com/",
     "description": "jQuery JavaScript library",
     "files": [
-        "jquery-3.2.1.min.js"
+        "jquery-3.4.1.min.js"
     ]       
 }
