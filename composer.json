@@ -1,7 +1,7 @@
 {
     "name": "arikaim/jquery-library",
-    "description": "jQuery UI library for Arikaim CMS",
-    "keywords": ["UI", "jQuery UI library for Arikaim CMS","Arikaim"],
+    "description": "jQuery library for Arikaim CMS",
+    "keywords": ["UI", "jQuery library for Arikaim CMS","Arikaim"],
     "type": "arikaim-library",
     "license": "GPL-3.0-or-later",
     "authors": [{
