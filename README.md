@@ -1,12 +1,17 @@
-<p align="center">
-    <img src="https://img.shields.io/github/release/arikaim/jquery-library.svg" alt="version: 1.0.0">
-    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="license: GPL3">
-</p>
-
 ## Arikaim CMS jQuery library
-jQuery library for Arikaim CMS 
+![version: 1.0.0](https://img.shields.io/github/release/arikaim/jquery-library.svg)
+
+
+[jQuery](https://github.com/jquery/jquery) library for Arikaim CMS 
+
+
+### Requirements 
+  * [Arikaim CMS](https://github.com/arikaim/arikaim)
+  
 
 ### Install
-```
+```bash
+
 composer require arikaim/jquery-library
+
 ```
