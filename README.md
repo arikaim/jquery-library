@@ -1,4 +1,4 @@
-### Arikaim CMS jQuery library
+## Arikaim CMS jQuery library
 ![version: 1.0.0](https://img.shields.io/github/release/arikaim/jquery-library.svg)
 
 
@@ -9,9 +9,8 @@
   * [Arikaim CMS](https://github.com/arikaim/arikaim)
   
 
-#### Install
-```bash
+#### Installation
 
+```sh
 composer require arikaim/jquery-library
-
 ```
