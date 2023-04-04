@@ -12,5 +12,7 @@
 #### Installation
 
 ```sh
+
 composer require arikaim/jquery-library
+
 ```
